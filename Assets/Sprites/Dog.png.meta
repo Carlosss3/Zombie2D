@@ -3,6 +3,22 @@ guid: de4f05ec01fc41549a4bf9f1e14dc310
 TextureImporter:
   fileIDToRecycleName:
     21300000: Dog
+    21300002: Dog_0
+    21300004: Dog_1
+    21300006: Dog_2
+    21300008: Dog_3
+    21300010: Dog_4
+    21300012: Dog_5
+    21300014: Dog_6
+    21300016: Dog_7
+    21300018: Dog_8
+    21300020: Dog_9
+    21300022: Dog_10
+    21300024: Dog_11
+    21300026: Dog_12
+    21300028: Dog_13
+    21300030: Dog_14
+    21300032: Dog_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -26,13 +42,13 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -43,6 +59,166 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Dog_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 122
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 122
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 120
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 82
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 83
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 42
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 42
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 43
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dog_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
