@@ -3,6 +3,26 @@ guid: da97919aa641260449658333d2c173a1
 TextureImporter:
   fileIDToRecycleName:
     21300000: Health
+    21300002: Health_0
+    21300004: Health_1
+    21300006: Health_2
+    21300008: Health_3
+    21300010: Health_4
+    21300012: Health_5
+    21300014: Health_6
+    21300016: Health_7
+    21300018: Health_8
+    21300020: Health_9
+    21300022: Health_10
+    21300024: Health_11
+    21300026: Health_12
+    21300028: Health_13
+    21300030: Health_14
+    21300032: Health_15
+    21300034: Health_16
+    21300036: Health_17
+    21300038: Health_18
+    21300040: Health_19
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -28,11 +48,11 @@ TextureImporter:
     filterMode: -1
     aniso: -1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -43,6 +63,206 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Health_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 294
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 294
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 294
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 294
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 294
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 214
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 214
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 214
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 214
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 214
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 104
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 104
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 104
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 104
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 9
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 9
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 9
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

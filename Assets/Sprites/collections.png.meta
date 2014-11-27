@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 3e43b0cb51979994b8240629f0bedeed
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: collections_0
+    21300002: collections_1
+    21300004: collections_2
+    21300006: collections_3
+    21300008: collections_4
+    21300010: collections_5
+    21300012: collections_6
+    21300014: collections_7
+    21300016: collections_8
+    21300018: collections_9
+    21300020: collections_10
+    21300022: collections_11
+    21300024: collections_12
+    21300026: collections_13
+    21300028: collections_14
+    21300030: collections_15
+    21300032: collections_16
+    21300034: collections_17
+    21300036: collections_18
+    21300038: collections_19
+    21300040: collections_20
+    21300042: collections_21
+    21300044: collections_22
+    21300046: collections_23
+    21300048: collections_24
+    21300050: collections_25
+    21300052: collections_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: collections_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 209
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 209
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 209
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 214
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 209
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 162
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 162
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 177
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 162
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 115
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 130
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 130
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 120
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 83
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 78
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 83
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 83
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 83
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 36
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 31
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 31
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 46
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: collections_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 9
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

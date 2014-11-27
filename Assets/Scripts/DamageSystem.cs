@@ -10,12 +10,14 @@ public class DamageSystem : MonoBehaviour {
 	public AudioClip sound;
 	
 	private float rectLive; 
+	private int maxLive;
 	
 	// Use this for initialization
 	void Start () {
 		if(livebar!=null){
 			rectLive = livebar.rect.width / live;
 		}
+		maxLive = live;
 	}
 	
 	// Update is called once per frame
@@ -23,6 +25,10 @@ public class DamageSystem : MonoBehaviour {
 		if(live <=0){
 			muerte();
 		}
+		if (live > maxLive) {
+			live = maxLive;
+		}
+						
 	}
 	
 	public void hurt(int damage){
@@ -52,6 +58,8 @@ public class DamageSystem : MonoBehaviour {
 	void muerte(){
 		Destroy(gameObject);
 	}
+
+
 	/*
 	void OnCollisionEnter2D(Collision2D target){
 		
@@ -59,6 +67,21 @@ public class DamageSystem : MonoBehaviour {
 					hurt(5);
 				}
 	}*/
-	
+
+	public void health (int health){
+		live = live - health;
+		var position = new Vector3 (transform.position.x, transform.position.y, -5);
+
+		
+		if(livebar!=null){
+			livebar.sizeDelta = new Vector2( live*rectLive, livebar.rect.height);
+		}
+		
+		if(sound!=null){
+			audio.PlayOneShot(sound);
+		}
+		
+	}
+
 	
 }
