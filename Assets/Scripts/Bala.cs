@@ -3,17 +3,19 @@ using System.Collections;
 
 public class Bala : MonoBehaviour {
 
-	public Vector2 velocity = new Vector2 (5,0);
+	public Vector2 velocity = new Vector2 (5, 0);
+	public GameObject particulas;
+
 
 	// Use this for initialization
-	void Start () {
+	void OnCollisionEnter2D(Collision2D target){
+				onDestroy ();
+		}
 
-		rigidbody2D.velocity = velocity * transform.localScale.x
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+	void onDestroy(){
+				var clone = Instantiate (particulas, transform.position, Quaternion.identity)
+			as GameObject;
+				Destroy (clone, 1);
+				Destroy (gameObject);
+		}
 }

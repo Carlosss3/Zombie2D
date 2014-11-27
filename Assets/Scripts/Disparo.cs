@@ -10,6 +10,8 @@ public class Disparo : MonoBehaviour {
 		if(bala != null){
 			var clone = Instantiate(bala,puntoDisparo.position, Quaternion.identity) as GameObject;
 			clone.transform.localScale = transform.localScale;
-}
+} else {
+			Debug.Log ("El jugador no tiene balas");
 	}
+}
 }
