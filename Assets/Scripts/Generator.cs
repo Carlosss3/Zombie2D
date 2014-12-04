@@ -1,10 +1,10 @@
-﻿﻿using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class Generator : MonoBehaviour {
-	public GameObject zombie;
-	public float spamTime = 5f;
-	public int maxZombies = 10;
+	public GameObject zombie;		//Que generamos
+	public float spamTime = 5f;		//cada cuanto lo creamos
+	public int maxZombies = 10;		//cuantos creamos
 	
 	
 	public float nextZombie;
