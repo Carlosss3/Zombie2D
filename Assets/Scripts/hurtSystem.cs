@@ -17,6 +17,9 @@ public class hurtSystem : MonoBehaviour {
 	
 	void OnCollisionStay2D(Collision2D target){
 		herir (target.transform);
+		if (destroyOnCollision) {
+			Destroy(gameObject);
+		}
 	}
 	
 	
@@ -37,8 +40,6 @@ public class hurtSystem : MonoBehaviour {
 			}
 		}
 		
-		if (destroyOnCollision) {
-			Destroy(gameObject);
-		}
+
 	}
 }

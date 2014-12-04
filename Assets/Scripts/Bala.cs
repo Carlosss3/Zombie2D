@@ -16,7 +16,11 @@ public class Bala : MonoBehaviour {
 	
 	
 	
-	
+	void OnCollisionEnter2D(Collision2D target){
+
+			onDestroy();
+
+	}
 	
 	
 	void onDestroy(){				
@@ -25,7 +29,7 @@ public class Bala : MonoBehaviour {
 		clone.particleSystem.startColor = Color.grey;
 		//clone.particleSystem.startColor = color ?? Color.grey;
 		Destroy(clone,1);
-		Destroy(gameObject);
+		//Destroy(gameObject);
 	}
 	
 }
